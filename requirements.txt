@@ -1,0 +1,10 @@
+﻿numpy
+pandas
+plotly
+matplotlib
+torch
+scikit-learn
+statsmodels
+ipykernel
+git+https://github.com/amazon-science/chronos-forecasting.git
+git+https://github.com/statsmodels/statsmodels
